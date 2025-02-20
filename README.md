@@ -9,6 +9,7 @@ An AI-driven encryption algorithm leveraging neural networks as adaptive alterna
 - 🛡 **Robust Security** against cryptanalysis and adversarial attacks
 - ☁️ **Scalable** for secure cloud storage and real-time communications
 - ⚡ **Outperforms** traditional encryption methods in cryptanalysis
+![image](https://github.com/user-attachments/assets/7998ab35-841f-4f7e-931f-efff28936214)
 
 ## 🛠 Tech Stack
 
